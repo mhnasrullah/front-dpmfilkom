@@ -1,0 +1,8 @@
+.textStroke{
+    -webkit-text-stroke: 4px #5A0000;
+    paint-order: stroke fill;
+}
+
+.cardNews::before{
+    background-image: linear-gradient(to bottom, #10101000, #101010FF);
+}

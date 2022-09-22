@@ -1,0 +1,52 @@
+
+.activeNav::after{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 2px;
+    width: 50%;
+    background: #5A0000;
+}
+
+.nav:hover::after{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 2px;
+    width: 100%;
+    background: #5A0000;
+}
+
+.nav::after{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 2px;
+    width: 0%;
+    transition: all .5s;
+    background: #5A0000;
+}
+.headerText{
+    -webkit-text-stroke: 16px #f5f5f5;
+    paint-order: stroke fill;
+}
+
+
+@keyframes mymove {
+    0%   {
+        opacity: 100% }
+    50%  {
+        opacity: 0% }
+    100% {
+        opacity: 100% }
+}
+
+.animatedScale{
+    animation-name: mymove;
+    animation-duration: 4s;
+    transition: all;
+    animation-iteration-count: infinite;
+}

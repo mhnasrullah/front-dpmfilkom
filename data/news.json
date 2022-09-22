@@ -1,0 +1,66 @@
+[
+    {
+        "id" : 1,
+        "slug": "berita1",
+        "title" : "Berita 1",
+        "date" : "2022/01/05",
+        "photo" : "/assets/images/news.jpg",
+        "content" : "Go back and read the content marketing definition one more time, but this time remove the relevant and valuable. That’s the difference between content marketing and the other informational garbage you get from companies trying to sell you “stuff.” Companies send us information all the time – it’s just that most of the time it’s not very relevant or valuable (can you say spam?). That’s what makes content marketing so intriguing in today’s environment of thousands of marketing messages per person per day."
+    },
+    {
+        "id" : 2,
+        "slug": "berita2",
+        "title" : "Berita 2",
+        "date" : "2022/01/06",
+        "photo" : "/assets/images/news.jpg",
+        "content" : "Go back and read the content marketing definition one more time, but this time remove the relevant and valuable. That’s the difference between content marketing and the other informational garbage you get from companies trying to sell you “stuff.” Companies send us information all the time – it’s just that most of the time it’s not very relevant or valuable (can you say spam?). That’s what makes content marketing so intriguing in today’s environment of thousands of marketing messages per person per day."
+    },
+    {
+        "id" : 3,
+        "slug": "berita3",
+        "title" : "Berita 3",
+        "date" : "2022/01/07",
+        "photo" : "/assets/images/news.jpg",
+        "content" : "Go back and read the content marketing definition one more time, but this time remove the relevant and valuable. That’s the difference between content marketing and the other informational garbage you get from companies trying to sell you “stuff.” Companies send us information all the time – it’s just that most of the time it’s not very relevant or valuable (can you say spam?). That’s what makes content marketing so intriguing in today’s environment of thousands of marketing messages per person per day."
+    },
+    {
+        "id" : 4,
+        "slug": "berita4",
+        "title" : "Berita 4",
+        "date" : "2022/01/08",
+        "photo" : "/assets/images/news.jpg",
+        "content" : "Go back and read the content marketing definition one more time, but this time remove the relevant and valuable. That’s the difference between content marketing and the other informational garbage you get from companies trying to sell you “stuff.” Companies send us information all the time – it’s just that most of the time it’s not very relevant or valuable (can you say spam?). That’s what makes content marketing so intriguing in today’s environment of thousands of marketing messages per person per day."
+    },
+    {
+        "id" : 5,
+        "slug": "berita5",
+        "title" : "Berita 5",
+        "date" : "2022/01/09",
+        "photo" : "/assets/images/news.jpg",
+        "content" : "Go back and read the content marketing definition one more time, but this time remove the relevant and valuable. That’s the difference between content marketing and the other informational garbage you get from companies trying to sell you “stuff.” Companies send us information all the time – it’s just that most of the time it’s not very relevant or valuable (can you say spam?). That’s what makes content marketing so intriguing in today’s environment of thousands of marketing messages per person per day."
+    },
+    {
+        "id" : 6,
+        "slug": "berita6",
+        "title" : "Berita 6",
+        "date" : "2022/01/10",
+        "photo" : "/assets/images/news.jpg",
+        "content" : "Go back and read the content marketing definition one more time, but this time remove the relevant and valuable. That’s the difference between content marketing and the other informational garbage you get from companies trying to sell you “stuff.” Companies send us information all the time – it’s just that most of the time it’s not very relevant or valuable (can you say spam?). That’s what makes content marketing so intriguing in today’s environment of thousands of marketing messages per person per day."
+    },
+    {
+        "id" : 7,
+        "slug": "berita7",
+        "title" : "Berita 7",
+        "date" : "2022/01/11",
+        "photo" : "/assets/images/news.jpg",
+        "content" : "Go back and read the content marketing definition one more time, but this time remove the relevant and valuable. That’s the difference between content marketing and the other informational garbage you get from companies trying to sell you “stuff.” Companies send us information all the time – it’s just that most of the time it’s not very relevant or valuable (can you say spam?). That’s what makes content marketing so intriguing in today’s environment of thousands of marketing messages per person per day."
+    },
+    {
+        "id" : 8,
+        "slug": "berita8",
+        "title" : "Berita 8",
+        "date" : "2022/01/12",
+        "photo" : "/assets/images/news.jpg",
+        "content" : "Go back and read the content marketing definition one more time, but this time remove the relevant and valuable. That’s the difference between content marketing and the other informational garbage you get from companies trying to sell you “stuff.” Companies send us information all the time – it’s just that most of the time it’s not very relevant or valuable (can you say spam?). That’s what makes content marketing so intriguing in today’s environment of thousands of marketing messages per person per day."
+    }
+]
