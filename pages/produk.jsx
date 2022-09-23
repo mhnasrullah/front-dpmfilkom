@@ -29,7 +29,7 @@ export default function Produk() {
         <Header
         title="Produk Hukum"
         type='second'
-        sub="Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, aperiam labore eos nemo non optio ducimus fuga et placeat id Lorem ipsum dolor sit amet."
+        sub="Semua produk hukum yang telah dibuat oleh DPM FILKOM ada disini"
         img="/assets/images/imgProduk.jpg"/>
         <section className="bg-white py-16">
             <Box className={"lg:flex"}>

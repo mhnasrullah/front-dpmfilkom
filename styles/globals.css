@@ -1,3 +1,25 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.Cell-today,.Cell-selected{
+    background: #C25E00 !important;
+  }
+  
+  span.Cell-today{
+    background: transparent !important;
+    color: #C25E00 !important;
+  }
+  
+  .Cell-text{
+    color: #101010 !important;
+  }
+  
+  .MuiButtonBase-root{
+    color : #101010 !important;
+  }
+  
+  .Cell-cell:focus{
+    background-color: #C25E0011 !important;
+  }
+  

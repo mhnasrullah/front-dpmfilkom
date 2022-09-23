@@ -27,7 +27,7 @@ export default function news() {
         type='second'
         img="/assets/images/imgBerita.jpg"
         title="Kabar Berita"
-        sub={"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi ratione aspernatur blanditiis non incidunt"}
+        sub={"Temukan semua kabar berita dan informasi terkini dari DPM FILKOM"}
         />
         <main className='bg-white'>
             <Box className={"py-16"}>
