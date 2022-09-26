@@ -15,7 +15,7 @@ import "swiper/css"
 import "swiper/css/navigation"
 import Footer from '../../section/Footer';
 
-export default function DetailNews() {
+export default function DetailNewsletter() {
     const router = useRouter();
     const {slug} = router.query;
     const [data,setData] = useState({});

@@ -10,7 +10,7 @@ import { useEffect,useState } from 'react'
 import Link from 'next/link'
 import Footer from '../section/Footer'
 
-export default function news() {
+export default function News() {
 
     const [data,setData] = useState([]);
     const [srch,setSrch] = useState("");
