@@ -24,7 +24,7 @@ export default function Button({type,style,children,color,href,className,downTex
             stl = `w-full border-2 font-semibold inline-block text-center rounded-full py-1 ${bg} text-white`
         }
         return(
-            <a className={`${stl} ${className ? className : ' '} hover:scale-105 transition-all`} href={href} target="_blank">
+            <a className={`${stl} ${className ? className : ' '} hover:scale-105 transition-all`} href={href} target="_blank" rel="noopener noreferrer">
                 {children}
             </a>
         )
